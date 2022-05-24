@@ -11,7 +11,6 @@ interface Props {
     state: any
     getIdIngredients: Function
 
-
 }
 
 const BurgerIngSub: React.FC<Props> = ({
